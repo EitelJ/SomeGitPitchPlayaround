@@ -17,7 +17,7 @@ Abbauwege sämtliche KH münden in diesen Stoffwechselweg ein
 ---
 
 **Abschnitt I**
-
+--------------------------
 energieaufwändige Prozesse
 
 ---
@@ -71,7 +71,7 @@ Hexose wird in zwei Triosen gespalten
 
 Dyhydroxyacetonphosphat -> Glycerinaldehyd-3-phosphat
 
-***Triosephosphatisomerase***
+*Triosephosphatisomerase*
 
  Isomeriserung in Richtung des Glycerinaldehyd-3-phosphat, da nur dieses in den zweiten Abschnitt eingespeist wird und die Konzeantration entsprechend niedrig ist
 ---
@@ -99,6 +99,7 @@ kovalente Bindung der Triose ans Enzym
 		.NADH und H+ werden vom Enzym abgespalten: NADH + H+
 		.Thioester (statt Thiohalbacetal) liegt nun vor (Thioester= Reaktion von SH- Gruppe mit Carbonsäure unter Abspaltung von H2O)
 		.Aldehydgruppe wurde zu einer Carboxylgruppe oxidiert
++++
 	2. phosphorolytische Freisetzung von 1,3-Bisphosphoglyceral unter Aufnahme von anorganischem Phosphat
 		Reaktionsmechanismus
 		.anorgansiches Phosphat wird aus der (wässrigen) Umgebung aufgenommen
@@ -114,13 +115,14 @@ kovalente Bindung der Triose ans Enzym
 - NAD+ = Nicotinamidadenindinukleotid -> große Ähnlichkeit zum ADP
 - positive Ladung = Elektronenmangel -> kann Hydrid- Ion aufnehmen (wird reduziert) und wieder abgeben (wird oxidiert)
 - NADH = reduzierte Form (manchmal auch NADH2); NAD+ = oxidierte Form
-Mechnismus:
++++
+Mechanismus:
 - Nicotinamidgruppe nimmt Hydrid- Ion auf, das C- Atom "gegenüber" vom N- Atom trägt dann zwei H- Atome
 	- dadurch bricht das aromatische System zusammen
 	- die guten Reduktionseigenschaften erklären sich dadurch, dass der energetisch deutlich günstigere aromatische Charakter wiederhergestellt werden soll
 	- dies geschieht durch Abgabe des Hydrid- Ions
 	-> NAD+/NADH weist als Redoxpaar ein sehr negatives Redoxpotential auf
-__
+---
 **7. Schritt**
 
 1,3-Bisphosphoglycerat -> 3-Phosphoglycerat
