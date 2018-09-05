@@ -96,38 +96,37 @@ Glycerinaldehyd-3-phosphat -> 1,3-Bisphosphoglycerat
 
 kovalente Bindung der Triose ans Enzym
 -> dann laufen zwei Prozesse ab:
-	1. Oxidation von Glycerinaldehyd-3-phosphat
++++
+  '1.' Oxidation von Glycerinaldehyd-3-phosphat
 		Reaktionsmechanismus:
-		.GA3P und NAD+ werden durch das Enzym in direkte Nachbarschaft gebracht
-		.dabei wird das Carbonyl C kovalent auf das S- Atom einer SH-Gruppe des Enzyms -> H-C-OH- Gruppe entsteht.
-		.Reaktion ähnlich der Ringbildung der Kohlenhydrate -> **Thiohalbacetal**
+		* GA3P und NAD+ werden durch das Enzym in direkte Nachbarschaft gebracht
+		* dabei wird das Carbonyl C kovalent auf das S- Atom einer SH-Gruppe des Enzyms -> H-C-OH- Gruppe entsteht
+		* Reaktion ähnlich der Ringbildung der Kohlenhydrate -> Thiohalbacetal
 +++
-		.**Oxidation**: NAD+ nimmt Hydrid- Ion (H-)
-		.C- Atom stellt seine vier Bindungen wieder her: O bildet zweite Bindung aus, dabei wird ein Proton abgespalten und eine  Carbonylverbindung ausgebildet
-		.NADH und H+ werden vom Enzym abgespalten: NADH + H+
-		.Thioester (statt Thiohalbacetal) liegt nun vor (Thioester= Reaktion von SH- Gruppe mit Carbonsäure unter Abspaltung von H2O)
-		.Aldehydgruppe wurde zu einer Carboxylgruppe oxidiert
+		**Oxidation**: NAD+ nimmt Hydrid- Ion (H-)
+		* C- Atom stellt seine vier Bindungen wieder her: O bildet zweite Bindung aus, dabei wird ein Proton abgespalten und eine  Carbonylverbindung ausgebildet
+		* NADH und H+ abgespalten
+		* Thioester (statt Thiohalbacetal)
+      * (Thioester= Reaktion von SH- Gruppe mit Carbonsäure unter Abspaltung von H2O)
+		* Aldehydgruppe wurde zu einer Carboxylgruppe oxidiert
 +++
-	2. phosphorolytische Freisetzung von 1,3-Bisphosphoglyceral unter Aufnahme von anorganischem Phosphat
-		Reaktionsmechanismus
-		.anorgansiches Phosphat wird aus der (wässrigen) Umgebung aufgenommen
-		-> 1,3-Bisphosphoglycerat
-			.Bindung an C1 = Anhydridbindung
-			.Bindung an C3 =  Esterbindung
-			.Carbonsäurederivat
-		.hohes Gruppenübertragungspotenzial: Synthese von ATP wird ermöglicht
-			durch die Oxidation der Aldehydgruppe durch das NAD+ wird Energie frei. Diese wird in der energiereichen Bindung zum Phosphat gespeichert
-			-> daraus ergibt sich o.g. Gruppenübertragungspotenzial
+	'2.' Freisetzung von 1,3-Bisphosphoglyceral unter Aufnahme von anorganischem Phosphat
+		* anorganisches Phosphat wird aus der Umgebung aufgenommen
+		-> 1,3-Bisphosphoglycerat = Carbonsäurederivat
+			* Bindung an C1 = Anhydridbindung
+			* Bindung an C3 =  Esterbindung
+		* hohes Gruppenübertragungspotenzial: Oxidation der Aldehydgruppe setzt Energie frei, die in der Phosphatbindung gespeichert wird.
+    * Synthese von ATP wird ermöglicht
 ---
 **NAD+ vermittelte Oxidation**
 - NAD+ = Nicotinamidadenindinukleotid -> große Ähnlichkeit zum ADP
 - positive Ladung = Elektronenmangel -> kann Hydrid- Ion aufnehmen (wird reduziert) und wieder abgeben (wird oxidiert)
 - NADH = reduzierte Form (manchmal auch NADH2); NAD+ = oxidierte Form
 +++
-Mechanismus:
+###Mechanismus:
 - Nicotinamidgruppe nimmt Hydrid- Ion auf, das C- Atom "gegenüber" vom N- Atom trägt dann zwei H- Atome
 	- dadurch bricht das aromatische System zusammen
-	- die guten Reduktionseigenschaften erklären sich dadurch, dass der energetisch deutlich günstigere aromatische Charakter wiederhergestellt werden soll
+	- die guten Reduktionseigenschaften erklären weil der energetisch deutlich günstigere aromatische Charakter wiederhergestellt werden soll
 	- dies geschieht durch Abgabe des Hydrid- Ions
 	-> NAD+/NADH weist als Redoxpaar ein sehr negatives Redoxpotential auf
 ---
