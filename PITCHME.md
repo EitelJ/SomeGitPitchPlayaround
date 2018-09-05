@@ -23,7 +23,7 @@ Abbauwege sämtlicher Kohlenhydrate münden in diesen Stoffwechselweg ein
 Energieaufwand
 
 ---
-**1. Schritt**\
+**1. Schritt**  
 Glucose -> Glucose-6-phosphat
 *Hexokinase*
 * Phosphorylierung um Glucose aus dem Konzentrationsgleichgewicht zu entfernen
