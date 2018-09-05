@@ -1,12 +1,12 @@
 Glycolyse
 ================================
-___ 
+---
 
 Abbau von Glucose -> damit einer der wichtigsten Stoffwechselwege der BC
 
 Abbauwege sämtliche KH münden in diesen Stoffwechselweg ein
 
-___
+---
 
 **zwei Abschnitte**
 
@@ -14,13 +14,13 @@ ___
 2. ATP Gewinn - Abbau zu Pyruvat, dabei freiwerdende Oxidationsenergie wird in ATP (Substratkettenphosphorylierung) und NADH (-> Atmungskette) gespeichert
 
 
-___
+---
 
 **Abschnitt I**
 
 energieaufwändige Prozesse
 
-___
+---
 **1. Schritt**
 Glucose -> Glucose-6-phosphat
 
@@ -34,7 +34,7 @@ GLUT - transportiert Glucose nach intrazellulär
 durch Hexokinase (in der Leber Glukokinase -> niedrigere Affinität (50x)-> Leberzellen nehmen überschüssige Glucose auf, die nicht in den Muskelzellen gebraucht wird -> Glykogen)
 B- Zellen des Pankreas reagieren mit Hilfe der Glukokinase auf hohe Glukosekonzentrationen im Blut -> Insulinausschüttung
 
-___
+---
 
 **2. Schritt**
 
@@ -47,7 +47,7 @@ Fructose wird schnell weiterverwertet -> Reaktion läuft weiter
 
 Glucose-6-phosphat wird aus der Glycolyse entnommen und anderen Stoffwechselwegen zugeführt (Glycogensynthese und Pentosephosphatweg)
 
-___
+---
 **3. Schritt**
 
 Fructose-6-phosphat -> Fructose-1,6-bisphosphat
@@ -56,8 +56,8 @@ Fructose-6-phosphat -> Fructose-1,6-bisphosphat
 
 Phosphorylierung der Fructose unter ATP -> ADP
 
-geschwindigkeitsbestimmender Schritt -> daher PFK1 Schlüsselenzym (je nach Aktivität variiert die Geschwindigkeit der Glycolyse, abhängig von Stoffwechselsituation) 
-___
+geschwindigkeitsbestimmender Schritt -> daher PFK1 Schlüsselenzym (je nach Aktivität variiert die Geschwindigkeit der Glycolyse, abhängig von Stoffwechselsituation)
+---
 **4. Schritt**
 
 Fructose-1,6-bisphosphat -> Glycerinaldehyd-3-phosphat und Dyhydroxyacetonphosphat
@@ -66,7 +66,7 @@ Fructose-1,6-bisphosphat -> Glycerinaldehyd-3-phosphat und Dyhydroxyacetonphosph
 
 Hexose wird in zwei Triosen gespalten
 
-___
+---
 **5. Schritt**
 
 Dyhydroxyacetonphosphat -> Glycerinaldehyd-3-phosphat
@@ -74,13 +74,13 @@ Dyhydroxyacetonphosphat -> Glycerinaldehyd-3-phosphat
 ***Triosephosphatisomerase***
 
  Isomeriserung in Richtung des Glycerinaldehyd-3-phosphat, da nur dieses in den zweiten Abschnitt eingespeist wird und die Konzeantration entsprechend niedrig ist
-___
+---
 **Abschnitt II**
 
 Energiegewinnende Schritte:
 Oxidation von Glycerinaldehyd-2-phosphat
 und Abbau des Produktes zum Pyruvat
-___
+---
 **6. Schritt**
 
 Glycerinaldehyd-3-phosphat -> 1,3-Bisphosphoglycerat
@@ -101,7 +101,7 @@ kovalente Bindung der Triose ans Enzym
 		.Aldehydgruppe wurde zu einer Carboxylgruppe oxidiert
 	2. phosphorolytische Freisetzung von 1,3-Bisphosphoglyceral unter Aufnahme von anorganischem Phosphat
 		Reaktionsmechanismus
-		.anorgansiches Phosphat wird aus der (wässrigen) Umgebung aufgenommen 
+		.anorgansiches Phosphat wird aus der (wässrigen) Umgebung aufgenommen
 		-> 1,3-Bisphosphoglycerat
 			.Bindung an C1 = Anhydridbindung
 			.Bindung an C3 =  Esterbindung
@@ -109,7 +109,7 @@ kovalente Bindung der Triose ans Enzym
 		.hohes Gruppenübertragungspotenzial: Synthese von ATP wird ermöglicht
 			durch die Oxidation der Aldehydgruppe durch das NAD+ wird Energie frei. Diese wird in der energiereichen Bindung zum Phosphat gespeichert
 			-> daraus ergibt sich o.g. Gruppenübertragungspotenzial
-___
+---
 **NAD+ vermittelte Oxidation**
 - NAD+ = Nicotinamidadenindinukleotid -> große Ähnlichkeit zum ADP
 - positive Ladung = Elektronenmangel -> kann Hydrid- Ion aufnehmen (wird reduziert) und wieder abgeben (wird oxidiert)
@@ -125,29 +125,29 @@ __
 
 1,3-Bisphosphoglycerat -> 3-Phosphoglycerat
 
-___
+---
 **8. Schritt**
 
 3-Phosphoglycerat -> 2-Phosphoglycerat
 
-___
+---
 **9. Schritt**
 
 2-Phosphoglycerat -> Phosphoenolpyruvat
 
-___
+---
 **10. Schritt**
 
 Phosphoenolpyruat -> Pyruvat
 
-___
+---
 **Weiter?**
 
 Was passiert mit dem Pyruvat und dem NADH2?
 
-___
+---
 
 Energiebilanz
 
-___
+---
 Umkehrreaktion bzw. (ir)reversible Schritte
