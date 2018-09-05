@@ -94,6 +94,7 @@ kovalente Bindung der Triose ans Enzym
 		.GA3P und NAD+ werden durch das Enzym in direkte Nachbarschaft gebracht
 		.dabei wird das Carbonyl C kovalent auf das S- Atom einer SH-Gruppe des Enzyms -> H-C-OH- Gruppe entsteht.
 		.Reaktion ähnlich der Ringbildung der Kohlenhydrate -> **Thiohalbacetal**
++++
 		.**Oxidation**: NAD+ nimmt Hydrid- Ion (H-)
 		.C- Atom stellt seine vier Bindungen wieder her: O bildet zweite Bindung aus, dabei wird ein Proton abgespalten und eine  Carbonylverbindung ausgebildet
 		.NADH und H+ werden vom Enzym abgespalten: NADH + H+
