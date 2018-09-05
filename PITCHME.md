@@ -1,17 +1,12 @@
-## Hello, World!
-
----
-
-## The End :)
-
 
 Glycolyse
 ================================
 ---
 
-Abbau von Glucose -> damit einer der wichtigsten Stoffwechselwege der BC
+Abbau von Glucose
+* einer der wichtigsten Stoffwechselwege der BC
 
-Abbauwege sämtliche KH münden in diesen Stoffwechselweg ein
+Abbauwege sämtlicher Kohlenhydrate münden in diesen Stoffwechselweg ein
 
 ---
 
@@ -25,16 +20,12 @@ Abbauwege sämtliche KH münden in diesen Stoffwechselweg ein
 
 **Abschnitt I**
 --------------------------
-energieaufwändige Prozesse
+Energieaufwand
 
 ---
-**1. Schritt**
+**1. Schritt**\
 Glucose -> Glucose-6-phosphat
-
 *Hexokinase*
-
-ΔG positiv -> ATP->ADP -> ΔG negativ (energetische Kopplung)
-
 * Phosphorylierung um Glucose aus dem Konzentrationsgleichgewicht zu entfernen
 * Hexokninase hat 50x höhere Affinität als Glukokinase
   * Leber speichert überschüssige Glucose
@@ -104,7 +95,7 @@ kovalente Bindung der Triose ans Enzym
 * positive Ladung = Elektronenmangel -> kann Hydrid- Ion aufnehmen (wird reduziert) und wieder abgeben (wird oxidiert)
 * NADH = reduzierte Form (manchmal auch NADH2); NAD+ = oxidierte Form
 +++
-### Mechanismus:
+#### Mechanismus:
 * Nicotinamidgruppe nimmt Hydrid- Ion auf, das C- Atom "gegenüber" vom N- Atom trägt dann zwei H- Atome
 	* dadurch bricht das aromatische System zusammen
 	* Aromatkonfiguration energetisch günstiger
